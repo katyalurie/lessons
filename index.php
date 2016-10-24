@@ -17,5 +17,6 @@ echo "Куплет 4<br /><br />";
 pripev();
 echo "Куплет 5 <br /><br />";
 pripev();
-
+echo "Куплет 6 <br /><br />";
+pripev();
 ?>
